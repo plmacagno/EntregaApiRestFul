@@ -1,0 +1,20 @@
+  [
+    {
+      "title": "Escritorio",
+      "price": 9500,
+      "thumbnaid": "https://pixabay.com/es/photos/desesperado-empresario-negocio-2261021/",
+      "id": 0
+    },
+    {
+      "title": "Cubo Mágico",
+      "price": 2500,
+      "thumbnaid": "https://pixabay.com/es/photos/cubo-de-rubik-cuadro-miniatura-5826755/",
+      "id": 1
+    },
+    {
+      "title": "Patineta",
+      "price": 5600,
+      "thumbnaid": "https://pixabay.com/es/photos/miniatura-patineta-patinador-3365503/",
+      "id": 2
+    }
+  ]
